@@ -34,9 +34,10 @@
 }
 .car{
     position:relative;
-    width: 200px;
-    height: 100px;
-    animation: car 10s linear infinite;
+    width: 300px;
+    height: 300px;
+    animation: car 12s linear infinite;
+    padding-bottom: 120px;
 }
 /* keyframes animation */
 @keyframes sun{
