@@ -37,7 +37,7 @@
     width: 250px;
     height: 150px;
     animation: car 12s linear infinite;
-    margin-top: 95px;
+    margin-top: 150px;
 }
 /* keyframes animation */
 @keyframes sun{
